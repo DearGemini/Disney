@@ -125,6 +125,7 @@
     margin-top: -370px;
 }
 .movie{
+	position:absolute;
 	height: 355px;
 	width: 500px;
 	margin-top: 7px;
