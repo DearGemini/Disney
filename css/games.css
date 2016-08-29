@@ -1,0 +1,88 @@
+body,ul,ol,li,p,h1,h2,h3,h4,h5,h6,form,table,td,img,div,input,textarea,select{margin:0;padding:0;list-style:none;} 
+font{"微软雅黑","宋体","Arial Narrow";}  
+
+a{text-decoration: none;color: white;display: block;width: 80px;height: 30px;}
+li:hover a{transform: scale(1.3);}
+.nav{
+	position: relative;
+	top:120px;
+	margin:0 auto;
+	width: 990px;
+	height: 30px;
+	background: #3e8be1;
+	border-radius: 20px;
+    opacity: 0.7;
+}
+.nav-left{
+    position: relative;
+    font: bold 15px "微软雅黑";
+    color: white;
+    margin-left: -20px;
+    top: 5px;
+}
+.nav-left li{
+	display: inline-block;
+	margin-left: 75px;
+}
+.nav-right{
+	position: relative;
+    font: bold 15px "微软雅黑";
+    color: white;
+    float: right;
+    margin-right: 15px;
+    top: -25px;
+}
+.nav-right li{
+	display: inline-block;
+	margin-left: 75px;
+}
+.logo{
+	position: absolute;
+	margin-top: 65px;
+	margin-left: 616px;
+}
+.information{
+	position: absolute;
+    margin-top: 70px;
+    margin-left: 215px;
+}
+.video{
+	position: absolute;
+    margin-top: 70px;
+    margin-left: 395px;
+}
+.game{
+	position: absolute;
+    margin-top: 65px;
+    margin-left: 580px;
+}
+.friend{
+	position: absolute;
+    margin-top: 65px;
+    right: 540px;
+}
+.download{
+	position: absolute;
+    margin-top: 65px;
+    right: 400px;
+}
+.vip{
+	position: absolute;
+    margin-top: 65px;
+    right: 240px;
+}
+.textalign-l{
+	text-align:left;
+}
+.textalign-r{
+	text-align: right;
+}
+.textalign-c{
+	text-align:center ;
+}
+.float-l{
+	float: left;
+}
+.float-r{
+	float:right;
+}

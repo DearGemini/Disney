@@ -1,0 +1,150 @@
+.main{
+	position: relative;
+	width: 100%;
+	height: 775px;
+	background: url(../images/bg1.jpg);
+}
+.sidebar-lefttop{
+	position: relative;
+	width: 210px;
+	height: 215px;
+	border-radius: 8px;
+	background: rgba(255,255,255,0.3);
+	margin-top: 130px;
+    margin-left: 200px;
+}
+.lefttop{
+	margin-top: 43px;
+    position: absolute;
+    margin-left: 7px;
+}
+.infinity{
+	width: 203px;
+	height: 15px;
+	border-radius: 4px;
+	background: #d0cedb;
+	margin-top: 5px;
+    position: absolute;
+    margin-left: 3px;
+    font: bold 17px "微软雅黑";
+	color: #072c71;
+	text-align: right;
+}
+.left{
+	position: absolute;
+    margin-top: 40px;
+    margin-left: 8px;
+    border-radius: 8px;
+}
+.sidebar-left{
+	position: relative;
+	width: 210px;
+	height: 150px;
+	border-radius: 8px;
+	background: rgba(255,255,255,0.3);
+	margin-top: 10px;
+    margin-left: 200px;
+}
+.sidebar-righttop{
+	position: relative;
+	width: 210px;
+	height: 215px;
+	border-radius: 8px;
+	background: rgba(255,255,255,0.3);
+	margin-top: -375px;
+    margin-left: 950px;
+}
+.right-top{
+	width: 200px;
+	height: 205px;
+	background: rgba(37,48,108,0.7);
+	border-radius: 8px;
+	position: absolute;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.hotgame{
+	width: 195px;
+	height: 30px;
+	font: bold 17px "微软雅黑";
+	color: #072c71;
+	background: #93a5ee;
+	border-radius: 4px;
+	margin-left: 2px;
+    margin-top: 3px;
+    position: absolute;
+    text-align: left;
+}
+.righttop{
+	position: absolute;
+	margin-top: 45px;
+    margin-left: 12px;
+}
+.right-top input{
+	width: 175px;
+	height: 25px;
+	background: #8dcff6;
+	border-radius: 8px;
+	position: absolute;
+    margin-top: 167px;
+    margin-left: 12px;
+}
+.sidebar-right{
+	position: relative;
+	width: 210px;
+	height: 150px;
+	border-radius: 8px;
+	background: rgba(255,255,255,0.3);
+	margin-top: 10px;
+    margin-left: 950px;
+}
+.right{
+	position: absolute;
+	margin-top: 15px;
+    margin-left: 7px;
+    border-radius: 8px;
+}
+.app{
+	width: 195px;
+	height: 30px;
+	font: bold 17px "微软雅黑";
+	color: #072c71;
+	background: #93a5ee;
+	border-radius: 4px;
+	margin-left: 7px;
+    margin-top: 10px;
+    position: absolute;
+    text-align: right;
+}
+.middle{
+	width: 515px;
+	height: 370px;
+	border-radius: 8px;
+	background: rgba(255,255,255,0.3);
+	margin-left: 422px;
+    margin-top: -370px;
+}
+.movie{
+	height: 355px;
+	width: 500px;
+	margin-top: 7px;
+margin-left: 7px;
+}
+.img{
+	position: absolute;
+	margin-top: 20px;
+	letter-spacing: 100px;
+}
+.footer{
+	position: absolute;
+    margin-top: 115px;
+    margin-left: 297px;
+}
+.foot{
+	margin-left:330px;
+}
+.footer p{
+	text-align:center;
+	color:white;
+	font-family: "微软雅黑";
+}
